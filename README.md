@@ -1,6 +1,6 @@
 # Introduction
 
-![Amirhosein Shoajei](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzzhMP0MX6C81mLSrgoUB0YGpHNlQeqvgTZdXinAaKg&s" align="center" width="220">
 
 This Django project provides a customizable user authentication system tailored to the specific needs of developers and administrators
 
@@ -16,13 +16,12 @@ each Python and Django series.
 
     git clone https://github.com/amirhoseinshojaei/Django-CustomUser.git
 
-**Install Django**
+**Install Requirements**
 
-    pip install django
+    pip install -r requirements.txt
 
 **Migrations**
 
-    python manage.py makemigrations
 
     python manage.py migrate
 
